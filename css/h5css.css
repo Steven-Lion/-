@@ -1,0 +1,171 @@
+.nav ul  {
+		padding:0;
+	    margin:0;
+	   	/*width:auto;*/
+		display:block;
+		height: 68px;
+		/*border: 1px solid #fff;*/
+		background:  #2e2e2e;
+		padding: 0px;
+		
+}
+ *{
+		
+		padding:0;		
+		margin:0;
+
+}
+.right-nav{
+	margin-right: 60px;
+	
+}
+.right-nav li{
+
+	color: #b9b9ba;
+	display: block;
+	font-size: 13px;
+	float: right;
+	margin:0;
+	padding:0;
+	list-style-type: none;
+	top:0;
+	margin-left: 2px;
+	margin-right: 3px;
+	left:0;
+	bottom:0;
+	margin-top: 25px;
+	outline: #000000;
+
+
+}
+
+.nav a{
+	/*border:1px solid:#fff;*/
+	margin-left: 50px;
+	text-decoration: none;
+	color: #b9b9ba;
+}
+li a:hover{
+	background-color:#2e2e2e;
+    color: white;
+}
+#logo{
+	margin-top: 16px;
+	list-style-type: none;
+	float:left ;
+	top:0;
+	padding:0;
+	right:0;
+	left:0;
+	bottom:0;
+	width: 100px;
+	height:80px;
+
+}
+
+#welcome {
+ 		
+		/*display: block;*/
+		font-size:80px;
+		color:#ffffff;
+		display:block;
+		line-height: 600px;
+		text-align:center;
+		
+}
+#welcome-detail{
+		font-size:20px;
+		color:#ffffff;
+		display:block;
+	margin-top: -230px;
+	/*	margin-left:20px ;*/
+		text-align:center;
+}
+.banner{
+	background-image:url('../htmltest/img/banner.jpg');
+	-webkit-background-size: cover;
+	background-size: cover;
+	display: block;
+	height: 600px;
+}
+.portfoli{
+	list-style-type: none;
+	margin-top:50px;
+	padding:0;
+	font-size: 20px;
+	text-align: center;
+	display:block;
+	color: #E47c00;
+	height: 250px;
+	width:auto;
+}
+.port-text{
+	text-align: center;
+	margin-top: 30px;
+	color: #E57c00;
+	font-size: 60px;
+}
+.buttons  	button {
+	display: inline-block;
+	text-align: center;
+	border: 1px solid #E57c00;
+	line-height: 40px;
+	padding: 0 20px 0 20px;
+	text-decoration: none;
+	appearance: none;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	cursor: pointer;
+	text-decoration: none;
+	margin: 20px 2px 10px;
+	font-weight: 300;
+	transition-property: all;
+	font-size: 16px;
+	font-family: "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	color: #e59501;
+	background-color: #ffffff;
+}
+.buttons li{
+	display: inline-block;
+}
+.port-img {
+	height: 600px;
+	background-size: cover;
+	display: block;
+	background-image:url('../htmltest/img/portfolio-nav-img.jpg');
+}
+.port-text-detail{
+	text-align: center;
+	-webkit-column-span: 2;
+	column-span: 2;
+}
+.stats-li  li{
+	padding: 0 50px 0 20px;	
+	margin: 20px 2px 10px;
+	display: inline-block;
+}
+.stats-li {
+	text-align: center;
+	padding: 0 50px 0 20px;	
+	margin: 20px 2px 10px;
+}
+.stats-li2{
+	padding: 0px 40px 0 10px;	
+	 margin: 20px 2px 0 10px; 
+	margin-left: 30px;
+} 
+.teams{
+		padding: 20px 20px 0 10px;	
+		margin:0;
+		display:block;
+		height: 400px;
+		background:  #2e2e2e;
+		padding: 0px;
+}
+.teams li{
+	
+	margin-left: -100px;
+	margin-top: 20px;
+}
+
